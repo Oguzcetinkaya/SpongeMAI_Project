@@ -231,7 +231,7 @@ def process_text(text, conjunctions_file):
     print(f"Yorumun Yıldız Puanı: {rounded_rating_divided}")
 
 # Örnek metin ve bağlaçlar dosya yolu
-text = "türkcell böyle olmaz"
+text = "Bu telefonu gerçekten beğendim, ancak kamera performansı beklediğim kadar iyi değil. Yine de genel olarak memnunum."
 conjunctions_file = 'baglaclar.txt'  
 
 # Metni işleyin
