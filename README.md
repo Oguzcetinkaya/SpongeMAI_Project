@@ -1,5 +1,6 @@
 # SpongeElectronicTeam_NLP
 Acıkhack2024TDDİ
+Sponge Electronic Team
 
 en son sürüm kütüphanelerle kullanılabilir.
 
