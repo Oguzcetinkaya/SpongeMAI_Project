@@ -1,5 +1,5 @@
-# SpongeElectronicTeam_NLP
-Acıkhack2024TDDİ
+
+
 
 
 en son sürüm kütüphanelerle kullanılabilir.
@@ -12,4 +12,4 @@ Web servis kodu için yerel çalıştırmak için
 uvicorn SpongeMAIWebService:app -reload yazarak çalıştırırız.
 
 
-Sponge Electronic Team
+Scorpions Electronic Team
